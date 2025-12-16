@@ -2,7 +2,7 @@
     .globl _start
 
 _start:
-    li t0, 22   
+    li t0, 21
 
     #Выделение цифр
     li t1, 10
